@@ -151,7 +151,7 @@ logement . électricité . consommation:
   icônes: ⚡
   question: Quelle est la consommation annuelle d'électricité de votre foyer ?
   unité: kWh
-  par défaut: 5000 kWh
+  par défaut: 25138 kWh
   aide: estimation via le coût
   description: |
     Astuce : vous trouverez la consommation annuelle d'électricité sur vos factures ou sur votre compte en ligne sur le site de votre fournisseur.
